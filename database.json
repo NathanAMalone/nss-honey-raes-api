@@ -125,6 +125,13 @@
       "emergency": true,
       "dateCompleted": "",
       "id": 6
+    },
+    {
+      "userId": 1,
+      "description": "Screen won't turn on.  Glass is smashed. Nevermind battery was empty",
+      "emergency": true,
+      "dateCompleted": "",
+      "id": 7
     }
   ],
   "employeeTickets": [
